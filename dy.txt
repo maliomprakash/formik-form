@@ -1,0 +1,15 @@
+   <h1 className="max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl light:text-white">Building digital <br />products & brands.</h1>
+                <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl light:text-gray-400">This free and open-source landing page template was built using the utility classes from <Link to="https://tailwindcss.com" className="hover:underline">Tailwind CSS</Link> and based on the components from the <Link to="https://flowbite.com/docs/getting-started/introduction/" className="hover:underline">Flowbite Library</Link> and the <Link to="https://flowbite.com/blocks/" className="hover:underline">Blocks System</Link>.</p>
+                <div className="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
+                    <Link to="#" className="inline-flex items-center justify-center w-full px-5 py-3 text-sm font-medium text-center text-gray-900 border border-gray-200 rounded-lg sm:w-auto hover:text-blue-700  hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 light:text-white light:border-gray-700 light:hover:bg-gray-700 light:focus:ring-gray-800">
+                        <svg className="w-4 h-4 mr-2 text-gray-500 light:text-gray-400"><FaGithub /></svg> View on GitHub
+                    </Link> 
+                    <Link className="inline-flex items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 light:focus:ring-gray-700 light:bg-gray-800 light:text-gray-400 light:border-gray-600 light:hover:text-white light:hover:bg-gray-700">
+                    <svg className="w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" width="1667" height="2500">
+                    <style type="text/css">{` 
+                      .st0 { fill: #0acf83; }
+                      .st1 { fill: #a259ff; }
+                      .st2 { fill: #f24e1e; }
+                      .st3 { fill: #ff7262; }
+                      .st4 { fill: #1abcfe; }
+                    `}</style>
